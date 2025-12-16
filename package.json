@@ -4,8 +4,8 @@
   "type": "module",
   "main": "app.js",
   "dependencies": {
-    "@inquirer/prompts": "^latest",
-    "pg": "^latest",
-    "dotenv": "^latest"
+    "@inquirer/prompts": "latest",
+    "pg": "latest",
+    "dotenv": "latest"
   }
 }
